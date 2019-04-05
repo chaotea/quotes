@@ -98,6 +98,10 @@ const quotes = [
 		quote: "Ask not what your country can do for you—ask what you can do for your country.",
 		source: "<i>John F. Kennedy</i>"
 	},
+	{
+		quote: "Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win. Working Men of All Countries, Unite!",
+		source: "<i>Karl Marx</i>"
+	},
 	// {
 	// 	quote: "Quoth the Raven, <i>Nevermore.</i>",
 	// 	source: "<i>Edgar Allan Poe</i>"
