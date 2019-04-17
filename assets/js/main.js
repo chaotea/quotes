@@ -102,6 +102,10 @@ const quotes = [
 		quote: "Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win. Working Men of All Countries, Unite!",
 		source: "<i>Karl Marx</i>"
 	},
+	{
+		quote: "So we beat on,\nboats against the current,\nborne back ceaselessly into the past.",
+		source: "<i>F. Scott Fitzgerald,</i> The Great Gatsby"
+	},
 	// {
 	// 	quote: "Quoth the Raven, <i>Nevermore.</i>",
 	// 	source: "<i>Edgar Allan Poe</i>"
