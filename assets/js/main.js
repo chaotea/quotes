@@ -106,6 +106,14 @@ const quotes = [
 		quote: "So we beat on,\nboats against the current,\nborne back ceaselessly into the past.",
 		source: "<i>F. Scott Fitzgerald,</i> The Great Gatsby"
 	},
+	{
+		quote: "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.",
+		source: "<i>Thomas Jefferson,</i> Declaration of Independence"
+	},
+	{
+		quote: "A house divided against itself, cannot stand.",
+		source: "<i>Abraham Lincoln</i>"
+	}
 	// {
 	// 	quote: "Quoth the Raven, <i>Nevermore.</i>",
 	// 	source: "<i>Edgar Allan Poe</i>"
